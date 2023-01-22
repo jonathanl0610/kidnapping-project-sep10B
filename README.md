@@ -3,9 +3,9 @@
 ### he asks you where you want to go...
 ---
 
-* [The city?](../city/Building.md)
-* [The Forest?](../Woods/game.md)
+* [The city?](../city.md)
+* [The Forest?](../Forest.md)
 
 
 
-[Go Back To The Main Page]
+[Go Back To The Main Page](../home.md)
