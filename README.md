@@ -3,7 +3,7 @@
 ### he asks you where you want to go...
 ---
 
-* [The city?](../city.md)
+* [The city?](CITY/city.md)
 * [The Forest?](FOREST/Forest.md)
 
 
