@@ -1,4 +1,4 @@
 
-nice choice !! He doesn’t find you,you won. he takes you off the van and arrive safely back home
+nice choice !! He didn't find you,you won. he takes you back to you home safely and he gives you 1000 bucks 
 
 [start over](../README.md)
