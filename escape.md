@@ -3,4 +3,4 @@ ooof! You run as fast as you can. but he manage to catch up to you. You made him
 
 [start over](../README.md)
 
-[revive](..README.md)
+[revive](../README.md)
