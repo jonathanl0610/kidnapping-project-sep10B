@@ -1,4 +1,4 @@
 
-seems like he is in a good mood.   He finds you, you get sent back to the van, but he drops you off back home, with no recollection of what happened
+__seems like he is in a good mood.   He finds you, you get sent back to the van, but he drops you off back home, with no recollection of what happened__
 
-[start over](../README.md)
+* [start over](../README.md)

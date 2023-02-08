@@ -1,4 +1,4 @@
 
-eek! He saw you he got a chainsaw to cut the tree down you fall to your death.
+**eek! He saw you and he got a chainsaw to cut the tree down. You fall to your death.**
 
-[start over](../README.md)
+* [start over](../README.md)
